@@ -1,0 +1,7 @@
+{
+  "name": "My Server",
+  "region": "Local",
+  "maxPlayers": 4,
+  "description": "Join my game!",
+  "dealer": "Computer"
+}

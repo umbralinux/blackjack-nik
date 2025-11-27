@@ -1,0 +1,10 @@
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\bin\Debug\ServerCreator.exe
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\bin\Debug\ServerCreator.pdb
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\obj\Debug\ServerCreator.csproj.AssemblyReference.cache
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\obj\Debug\ServerCreator.csproj.CoreCompileInputs.cache
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\obj\Debug\ServerCreator.exe
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\obj\Debug\ServerCreator.pdb
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\bin\Debug\ServerCreator.exe.manifest
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\bin\Debug\ServerCreator.application
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\obj\Debug\ServerCreator.exe.manifest
+C:\blackjack-main\blackjack-main\blackjack-nik\blackjack-nik\ServerCreator\obj\Debug\ServerCreator.application
